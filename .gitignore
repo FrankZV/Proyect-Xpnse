@@ -1,0 +1,47 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# Flutter/Dart packages
+.packages
+.pub-cache/
+.dart_tool/
+build/
+linux/flutter/ephemeral/
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+ios/Flutter/.symlinks/
+ios/Pods/
+ios/.generated/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+# Android Studio/IntelliJ files
+.idea/
+*.iml
+*.ipr
+*.iws
+android/.gradle/
+android/captures/
+android/gradle
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/key.properties
+# VS Code files
+.vscode/
+
+# Generated localization files
+lib/generated/
+
+# Sensitive files (if any)
+# secrets.json
+# *.keystore
